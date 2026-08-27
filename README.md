@@ -6,17 +6,16 @@ COS brings environmental data, device instrumentation and astronomy together in 
 
 Currently in development as my first independent software project while studying Computing & IT.
 
-What it does
+### What it does
 
-Dynamic watch face with weather visualisation and themes
-Weather history and forecast data visualised as graphs
-Real-time Sun position and Sun/Moon rise and set calculations
-Step tracking and goals
-Accelerometer, barometer and magnetometer instrumentation
-Interactive Solar System with orbital visualisation
-Catalogue of human space missions and spacecraft with map visualisation
-Mini chess and additional utilities
-Status
+- Dynamic watch face with weather visualisation and themes
+- Weather history and forecast data visualised as graphs
+- Real-time Sun position and Sun/Moon rise and set calculations
+- Step tracking and goals
+- Accelerometer, barometer and magnetometer instrumentation
+- Interactive Solar System with orbital visualisation
+- Catalogue of human space missions and spacecraft with map visualisation
+- Mini chess and additional utilities
 
 Currently in development. First Wear OS release coming soon.
 

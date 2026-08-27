@@ -1,18 +1,26 @@
-# COS
+COS
+
 Wear OS watch face and companion app for weather, sensors, astronomy and spaceflight.
+
+COS brings environmental data, device instrumentation and astronomy together in a watch-focused interface.
 
 Currently in development as my first independent software project while studying Computing & IT.
 
 What it does
-
 Dynamic watch face with weather visualisation and themes
-Weather history and forecast data visualisation in graph format
+Weather history and forecast data visualised as graphs
 Real-time Sun position and Sun/Moon rise and set calculations
 Step tracking and goals
 Accelerometer, barometer and magnetometer instrumentation
 Interactive Solar System with orbital visualisation
 Catalogue of human space missions and spacecraft with map visualisation
 Mini chess and additional utilities
-
 Status
-In development and will always be free. First Wear OS release coming soon.
+
+Currently in development. First Wear OS release coming soon.
+
+COS will always be free.
+
+I particularly prefer “brings ... together” there. That's genuinely what distinguishes the project, without claiming it's something revolutionary.
+
+And once you add 4–5 screenshots underneath that, this is already enough for the GitHub page you need.

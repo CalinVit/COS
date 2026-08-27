@@ -7,6 +7,7 @@ COS brings environmental data, device instrumentation and astronomy together in 
 Currently in development as my first independent software project while studying Computing & IT.
 
 What it does
+
 Dynamic watch face with weather visualisation and themes
 Weather history and forecast data visualised as graphs
 Real-time Sun position and Sun/Moon rise and set calculations

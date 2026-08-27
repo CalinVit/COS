@@ -20,7 +20,3 @@ Status
 Currently in development. First Wear OS release coming soon.
 
 COS will always be free.
-
-I particularly prefer “brings ... together” there. That's genuinely what distinguishes the project, without claiming it's something revolutionary.
-
-And once you add 4–5 screenshots underneath that, this is already enough for the GitHub page you need.

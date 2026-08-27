@@ -1,8 +1,6 @@
 # COS
 Wear OS watch face and companion app for weather, sensors, astronomy and spaceflight.
 
-COS is a Wear OS watch face and companion app built around environmental data, device instrumentation and space exploration.
-
 Currently in development as my first independent software project while studying Computing & IT.
 
 What it does

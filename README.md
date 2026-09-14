@@ -1,22 +1,22 @@
-COS
+# COS
 
-Wear OS watch face and companion app for weather, sensors, astronomy and spaceflight.
+COS is a free Wear OS watch face and companion app combining weather, device instrumentation, astronomy, and spaceflight in a watch-focused interface.
 
-COS brings environmental data, device instrumentation and astronomy together in a watch-focused interface.
+## Features
 
-Currently in development as my first independent software project while studying Computing & IT.
+- Dynamic watch face with weather visualisations and custom themes
+- Current weather and forecast graphs
+- Real-time Sun position
+- Sunrise, sunset, moonrise, and moonset calculations
+- Step tracking and configurable goals
+- Accelerometer, barometer, and magnetometer instruments
+- Interactive Solar System and orbital visualisations
+- Catalogues of planets, space missions, and spacecraft
+- Mission map featuring probes, rovers, landers, observatories, and milestones
+- Mini chess and additional watch utilities
 
-### What it does
+COS was created as my first independent software project while studying Computing & IT.
 
-- Dynamic watch face with weather visualisation and themes
-- Weather history and forecast data visualised as graphs
-- Real-time Sun position and Sun/Moon rise and set calculations
-- Step tracking and goals
-- Accelerometer, barometer and magnetometer instrumentation
-- Interactive Solar System with orbital visualisation
-- Catalogue of human space missions and spacecraft with map visualisation
-- Mini chess and additional utilities
+## Availability
 
-Currently in development. First Wear OS release coming soon.
-
-COS will always be free.
+COS will always be free, with no advertisements, subscriptions, or paid features.
